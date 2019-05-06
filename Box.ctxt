@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Box
+comment0.text=\r\n\ Lab06\ Assignment5\r\n\r\n\ @author\ (AMINA\ HAMID\ U15/FNS/CSC/050)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=boxLength\ boxWidth\ boxHeight
+comment1.target=Box(double,\ double,\ double)
+comment2.params=boxLength
+comment2.target=Box(double)
+comment3.params=
+comment3.target=double\ volume()
+comment4.params=
+comment4.target=double\ surfaceArea()
+comment5.params=
+comment5.target=double\ getLength()
+comment6.params=
+comment6.target=double\ getWidth()
+comment7.params=
+comment7.target=double\ getHeight()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
